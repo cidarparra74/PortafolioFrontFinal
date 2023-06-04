@@ -1,0 +1,44 @@
+.img-project {
+  width: 1016px;
+  height: 574px;
+  border-radius: 8px;
+}
+.text-project {
+  width: 584px;
+  height: 96px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+  color: #687782;
+}
+.p-project {
+  width: 584px;
+  height: 32px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+  margin-bottom: 0px;
+  color: #8e9ba4;
+}
+.btn-project1 {
+  padding: 8px 16px;
+  gap: 10px;
+
+  width: 50%;
+  height: 44px;
+
+  border-radius: 4px;
+}
+.dongato,
+.amservice,
+.imbo,
+.adoplas {
+  text-align: inherit;
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-start;
+}
+.text {
+  text-align: start;
+}
